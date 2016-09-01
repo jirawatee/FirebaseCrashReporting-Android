@@ -21,4 +21,4 @@ Firebase Crash Reporting code guideline for Android developers
 </table>
 
 ## Blog
-[Coming soon](https://medium.com/@jirawatee/)
+[Firebase Crash Reporting](https://medium.com/@jirawatee/%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%88%E0%B8%B1%E0%B8%81-firebase-crash-reporting-%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%81%E0%B8%95%E0%B9%88-zero-%E0%B8%88%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99-hero-e723e43a6dc#.q9v3uu7w4)
