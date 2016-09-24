@@ -18,10 +18,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 		setContentView(R.layout.activity_main);
 
 		mTextView = (TextView) findViewById(R.id.textview);
-		findViewById(R.id.button_null_pointer).setOnClickListener(this);
-		findViewById(R.id.button_runtime).setOnClickListener(this);
 
 		FirebaseCrash.log("Activity created");
+
+		findViewById(R.id.button_null_pointer).setOnClickListener(this);
+		findViewById(R.id.button_runtime).setOnClickListener(this);
 	}
 
 	@Override
