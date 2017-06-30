@@ -1,7 +1,5 @@
 <resources>
 	<string name="app_name">Crash</string>
-	<string name="custom_log">Custom log</string>
-	<string name="custom_logcat">Custom log and logcat</string>
 	<string name="sent_crash_report">%s sent to the crash report.</string>
 	<string name="sent_crash_report_and_logcat">%s sent to crash report and logcat.</string>
 	<string name="null_pointer_exception">NullPointerException</string>
